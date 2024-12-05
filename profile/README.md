@@ -6,4 +6,4 @@
 *misc. proteotools developed by our former colleague Alvaro Sanchez*\
 [MQanalyser](https://github.com/svalvaro/MQanalyser) - interactive analysis of proteomics data (mainly MaxQuant)\
 [ProteoViewer](https://github.com/svalvaro/ProteoViewer) - peptide intensities mapped on the protein topology visualized by the Protter\
-[MQmetrics](https://github.com/svalvaro/MQmetrics) - R package for the Quality Control report based on the MaxQuant output\
+[MQmetrics](https://github.com/svalvaro/MQmetrics) - R package for the Quality Control report based on the MaxQuant output
