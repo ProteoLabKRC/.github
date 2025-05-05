@@ -1,6 +1,7 @@
 ### Complexome data analysis
 [GIPit](https://github.com/Rayyan-Tariq-Khan/GIPit) - Gaussian Interaction Profiler workflow (formerly known as Easy-GIP)\
 [ProteoViz](https://github.com/Rayyan-Tariq-Khan/ProteoViz) - complexomics data visualization workflow\
+[ProfileScorer](https://github.com/Rayyan-Tariq-Khan/ProfileScorer) - scoring tool for abundance profiles\
 <br>
 ### Proteomics tools by Alvaro
 *misc. proteotools developed by our former colleague Alvaro Sanchez*\
